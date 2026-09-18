@@ -1,2 +1,0 @@
-# ASSIGNMENTS
-All assignments
